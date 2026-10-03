@@ -7,3 +7,5 @@ Review note: Pending
 ## Git workflow observation
 
 Focused commits make it easier to review and undo one purpose at a time.
+
+Browser sync note: This line was added on GitHub.
