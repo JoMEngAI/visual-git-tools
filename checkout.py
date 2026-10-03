@@ -1,7 +1,7 @@
 def checkout_total(prices, shipping=0):
     """Return the sum of prices plus shipping."""
     subtotal = sum(prices)
-    return subtotal + shipping + 1
+    return subtotal + shipping
 
 
 if __name__ == "__main__":
