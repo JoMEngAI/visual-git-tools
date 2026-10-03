@@ -1,0 +1,10 @@
+Line investigated: return subtotal + shipping
+Commit ID: 49d2d8cc48a814b5cdd7839769edcde544f161b8
+Author/date shown: JoMEngAI 10/3/2026
+Commit message: Remove unintended checkout surcharge
+
+Interpretation:
+The earlier overcharge commit added + 1 to the return expression,
+which would increase the sample total from 25.00 to 26.00. The repair
+commit removed that addition, restoring the intended calculation.
+The repair diff identifies the commit that last changed the current line.
