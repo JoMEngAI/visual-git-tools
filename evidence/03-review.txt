@@ -1,0 +1,14 @@
+Commit 1: Clarify checkout calculation scope
+File: checkout.py
+Purpose: Clarifies that tax and discounts are excluded.
+
+Commit 2: Add Git workflow observation to README
+File: README.md
+Purpose: Adds a separate observation about focused Git commits.
+
+Reason for separation:
+These changes serve different purposes. Separate commits let a reviewer
+inspect each purpose independently and let either change be reverted
+without automatically undoing the other.
+
+Screenshot: screenshots/03-review.png
