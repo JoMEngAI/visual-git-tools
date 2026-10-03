@@ -1,0 +1,15 @@
+Repository URL: https://github.com/JoMEngAI/visual-git-tools
+Branches: main and visual-tools
+
+Feature commit 1: Add basic checkout total calculation
+Feature commit 2: Support shipping in checkout total
+
+History interpretation:
+The initial README commits are shared because visual-tools was created
+from main after those commits. The two checkout commits are currently
+unique to visual-tools. With visual-tools checked out, HEAD points to
+that branch. At the time of the screenshot, visual-tools points to
+Support shipping in checkout total, its newest feature commit.
+Main still points to its earlier README history.
+
+Screenshot is in screenshots/01-history.png
