@@ -1,5 +1,5 @@
 def checkout_total(prices, shipping=0):
-    """Return the sum of prices plus shipping."""
+    """Return prices plus shipping; tax and discounts are excluded."""
     subtotal = sum(prices)
     return subtotal + shipping
 
