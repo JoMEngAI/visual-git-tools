@@ -1,0 +1,31 @@
+Before merge:
+visual-tools contained the checkout feature commits that main did not.
+
+Merge action:
+I selected main, chose visual-tools as the branch to merge, and used
+Merge visual-tools into main.
+
+After merge:
+Main's History contained the checkout feature commits.
+
+Remote update:
+I edited README.md on GitHub main and committed:
+"Add browser synchronization note"
+
+Synchronization:
+I used Fetch origin and Pull origin. The browser sync note appeared
+in local README.md, and Desktop Changes was empty before the screenshot.
+
+Git vocabulary:
+Current branch: The branch currently checked out locally.
+Publish branch: Publishes a local branch to GitHub.
+Fetch: Retrieves remote information without incorporating it into
+the checked-out branch.
+Pull: Retrieves and incorporates remote changes into the local branch.
+Merge: Incorporates another branch's history into the current branch.
+Push: Sends local commits to GitHub.
+
+Screenshots:
+screenshots/04-before-merge.png
+screenshots/04-after-merge.png
+screenshots/04-after-pull.png
