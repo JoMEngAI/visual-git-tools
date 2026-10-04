@@ -9,6 +9,9 @@ Review note: Main review note
 Review note: Feature review note
 
 Merge commit message:
+Merge branch 'visual-tools'
+
+Merge commit ID:
 8e05e482a6b866df5b40b227c04f0303e763ab70
 
 Resolution:
@@ -23,5 +26,5 @@ shows the merge, and Changes was empty after the merge was published.
 Screenshots:
 screenshots/05-conflict.png
 screenshots/05-conflict2.png
-screenshot/05-conflict3.png
+screenshots/05-conflict3.png
 screenshots/05-resolved.png
