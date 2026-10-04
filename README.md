@@ -2,7 +2,7 @@
 
 This repository documents a GitHub Desktop investigation of commits, branches, and merge conflicts.
 
-Review note: Pending
+Review note: Feature review note
 
 ## Git workflow observation
 
