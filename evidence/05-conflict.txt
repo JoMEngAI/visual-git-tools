@@ -1,0 +1,27 @@
+Main conflicting line:
+Review note: Main review note
+
+Visual-tools conflicting line:
+Review note: Feature review note
+
+Final resolved content:
+Review note: Main review note
+Review note: Feature review note
+
+Merge commit message:
+8e05e482a6b866df5b40b227c04f0303e763ab70
+
+Resolution:
+I opened the conflicted README.md in VS Code, retained both intended
+review notes, removed the conflict markers, and saved the file.
+I completed the merge in GitHub Desktop and pushed main to GitHub.
+
+Verification:
+The published README.md contains both review notes. Desktop History
+shows the merge, and Changes was empty after the merge was published.
+
+Screenshots:
+screenshots/05-conflict.png
+screenshots/05-conflict2.png
+screenshot/05-conflict3.png
+screenshots/05-resolved.png
