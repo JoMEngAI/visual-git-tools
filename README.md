@@ -3,6 +3,7 @@
 This repository documents a GitHub Desktop investigation of commits, branches, and merge conflicts.
 
 Review note: Main review note
+Review note: Feature review note
 
 ## Git workflow observation
 
